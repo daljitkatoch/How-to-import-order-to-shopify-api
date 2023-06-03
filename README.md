@@ -1,4 +1,4 @@
-# Instruction
+# Installation 
 
 1. Place the file in root directory where you want it to run
 
