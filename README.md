@@ -1,10 +1,12 @@
 # Installation 
 
-1. Place the file in root directory where you want it to run
+1. Place the file in root directory where you want it to run.
 
-2. Install composer If not insalled on your server
+2. Install composer If not insalled on your server.
 
 4. Run CMD "composer require guzzlehttp/guzzle" to install
+
+5. Edit Shop Url and Accesstoken with your shopify store.
 
 5. Then run the file in your browser
 
